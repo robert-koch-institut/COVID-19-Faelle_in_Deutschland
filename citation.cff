@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+type: dataset
+title: COVID-19-Fälle in Deutschland
+abstract: >-
+  Im Datensatz "COVID-19-Fälle in Deutschland" des Robert Koch-Instituts werden die
+  Daten basierend auf Meldungen zu Infektionen mit dem SARS-CoV-2-Virus nach dem Infektionsschutzgesetz
+  (IfSG) bereitgestellt. Darin enthalten sind Informationen auf Bundeslandebene zu
+  Infektionen nach Falldefinition des Robert Koch-Instituts, differenziert nach Altersgruppen.
+  Diese Daten dienen als Grundlage für epidemiologische Bewertungen und gesundheitspolitische
+  Maßnahmen.
+date-released: '2026-11-26'
+keywords:
+  - COVID-19
+  - SARS-CoV-2
+  - Inzidenz
+  - Infektion
+  - Infektionsschutzgesetz
+  - IfSG
+  - Incidence
+  - Gesundheitsberichterstattung
+  - Public health surveillance
+  - Deutschland
+  - Infection
+  - Germany
+  - Open Data
+  - Offene Daten
+  - Epidemiologie
+  - Epidemiology
+message: Cite me!
+url: https://robert-koch-institut.github.io/COVID-19-Faelle_in_Deutschland
+license: CC-BY-4.0
+doi: 10.5281/zenodo.20154327
+version: '2026-11-26'
+authors:
+  - name: Robert Koch-Institut
+    email: info@rki.de
+    website: https://www.rki.de/

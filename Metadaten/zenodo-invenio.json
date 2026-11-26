@@ -1,0 +1,194 @@
+{
+  "title": "COVID-19-Fälle in Deutschland",
+  "description": "<p>Im Datensatz \"COVID-19-Fälle in Deutschland\" des Robert Koch-Instituts werden die Daten basierend auf Meldungen zu Infektionen mit dem SARS-CoV-2-Virus nach dem Infektionsschutzgesetz (IfSG) bereitgestellt. Darin enthalten sind Informationen auf Bundeslandebene zu Infektionen nach Falldefinition des Robert Koch-Instituts, differenziert nach Altersgruppen. Diese Daten dienen als Grundlage für epidemiologische Bewertungen und gesundheitspolitische Maßnahmen.</p>",
+  "resource_type": {
+    "id": "dataset"
+  },
+  "publication_date": "2026-11-26",
+  "creators": [
+    {
+      "person_or_org": {
+        "type": "organizational",
+        "name": "Robert Koch-Institut",
+        "identifiers": [
+          {
+            "scheme": "ror",
+            "identifier": "01k5qnb77"
+          }
+        ]
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Diercke",
+        "given_name": "Michaela",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0002-4678-1813"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
+        }
+      ],
+      "role": {
+        "id": "projectleader"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Benzler",
+        "given_name": "Justus",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0002-7470-0849"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
+        }
+      ],
+      "role": {
+        "id": "projectmanager"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Ullrich",
+        "given_name": "Alexander",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0002-4894-6124"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
+        }
+      ],
+      "role": {
+        "id": "researcher"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Pape",
+        "given_name": "Eberhard"
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
+        }
+      ],
+      "role": {
+        "id": "datamanager"
+      }
+    }
+  ],
+  "publisher": "Zenodo",
+  "version": "2026-11-26",
+  "dates": [
+    {
+      "date": "2026-11-26T03:00:36+01:00",
+      "type": {
+        "id": "created"
+      },
+      "description": "Date when the dataset was created"
+    }
+  ],
+  "languages": [
+    {
+      "id": "deu"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "relation_type": {
+        "id": "issupplementto"
+      },
+      "identifier": "https://github.com/robert-koch-institut/COVID-19-Faelle_in_Deutschland",
+      "resource_type": {
+        "id": "dataset"
+      }
+    }
+  ],
+  "rights": [
+    {
+      "id": "cc-by-4.0"
+    }
+  ],
+  "subjects": [
+    {
+      "subject": "COVID-19"
+    },
+    {
+      "subject": "SARS-CoV-2"
+    },
+    {
+      "subject": "Inzidenz"
+    },
+    {
+      "subject": "Infektion"
+    },
+    {
+      "subject": "Infektionsschutzgesetz"
+    },
+    {
+      "subject": "IfSG"
+    },
+    {
+      "subject": "Incidence"
+    },
+    {
+      "subject": "Gesundheitsberichterstattung"
+    },
+    {
+      "subject": "Public health surveillance"
+    },
+    {
+      "subject": "Deutschland"
+    },
+    {
+      "subject": "Infection"
+    },
+    {
+      "subject": "Germany"
+    },
+    {
+      "subject": "Open Data"
+    },
+    {
+      "subject": "Offene Daten"
+    },
+    {
+      "subject": "Epidemiologie"
+    },
+    {
+      "subject": "Epidemiology"
+    }
+  ],
+  "custom_fields": {
+    "legacy:communities": [
+      "robertkochinstitut"
+    ]
+  }
+}
